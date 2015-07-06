@@ -1,0 +1,2 @@
+defmodule Mailboxer do
+end
