@@ -5,4 +5,6 @@ The idea is to port [mailboxer](https://github.com/mailboxer/mailboxer) (the Rub
 
 
 Idea from @chrismccord:
-`Mix.Tasks.Ecto.Migration.run(["create_the_thing"])`
+```
+Mix.Tasks.Ecto.Migration.run(["create_the_thing"])
+```
