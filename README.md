@@ -1,4 +1,4 @@
-Mailboxer
+Inbox
 =========
 
 **TODO: Add description**

@@ -1,0 +1,2 @@
+defmodule Inbox do
+end

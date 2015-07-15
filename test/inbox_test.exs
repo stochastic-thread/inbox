@@ -1,6 +1,6 @@
-defmodule MailboxerTest do
+defmodule InboxTest do
   use ExUnit.Case
-  doctest Mailboxer
+  doctest Inbox
 
   test "the truth" do
     assert 1 + 1 == 2
